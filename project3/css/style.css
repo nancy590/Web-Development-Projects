@@ -1,0 +1,20 @@
+body{
+    font-family: Arial;
+    display:flex;
+    justify-content:center;
+    margin-top:60px;
+    background:#f4f6f8;
+}
+
+.container{
+    background:white;
+    padding:20px;
+    width:300px;
+    text-align:center;
+    border-radius:8px;
+}
+
+button{
+    margin:5px;
+    padding:8px 12px;
+}
